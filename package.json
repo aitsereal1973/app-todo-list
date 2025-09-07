@@ -1,6 +1,6 @@
 {
   "name": "app-todo-list",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Una aplicación para gestionar tareas.",
   "main": "index.js",
   "scripts": {
